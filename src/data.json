@@ -1,0 +1,83 @@
+[
+    {
+      "Name": "Martine Table",
+      "City": "ahemdabad",
+      "Cuisine Style": "['Gujrati','bar ']",
+      "Ranking": 1,
+      "Rating": 5,
+      "Number of Reviews": 136
+    },
+    {
+      "Name": "De Silvere ",
+      "City": "ahemdabad",
+      "Cuisine Style": "[ 'Panjabi', 'Vegetarian Friendly ']",
+      "Ranking": 2,
+      "Rating": 4.5,
+      "Number of Reviews": 812
+    },
+    {
+      "Name": "Jungle bhook ",
+      "City": "ahemdabad",
+      "Cuisine Style": "['Gujrati', 'Chinese', 'Panjabi', 'Vegetarian Friendly']",
+      "Ranking": 3,
+      "Rating": 4.5,
+      "Number of Reviews": 567
+    },
+    {
+      "Name": "Dinner bell ",
+      "City": "ahemdabad",
+      "Cuisine Style": "[ 'Panjabi', 'Chinese', 'Vegetarian Friendly', 'Vegan Options']",
+      "Ranking": 5,
+      "Rating": 4.5,
+      "Number of Reviews": 316
+    },
+    {
+      "Name": "Ciel Bleu Restaurant",
+      "City": "ahemdabad",
+      "Cuisine Style": "[ 'Chinese', 'Vegetarian Friendly']",
+      "Ranking": 6,
+      "Rating": 4.5,
+      "Number of Reviews": 745
+    },
+
+    {
+      "Name": "Blue Pepper Restaurant And Candlelight Cruises",
+      "City": "ahemdabad",
+      "Cuisine Style": "['Asian', 'Vegetarian Friendly']",
+      "Ranking": 8,
+      "Rating": 4.5,
+      "Number of Reviews": 675
+    },
+    {
+      "Name": "SBR ",
+      "City": "ahemdabad",
+      "Cuisine Style": "['FastFood ']",
+      "Ranking": 10,
+      "Rating": 4.5,
+      "Number of Reviews": 450
+    },
+    {
+      "Name": "CCD",
+      "City": "ahemdabad",
+      "Cuisine Style": "['Chinese',  'Vegetarian Friendly']",
+      "Ranking": 12,
+      "Rating": 4.5,
+      "Number of Reviews": 967
+    },
+    {
+      "Name": "Biercafe ",
+      "City": "ahemdabad",
+      "Cuisine Style": "['Bar','Pub']",
+      "Ranking": 14,
+      "Rating": 4.5,
+      "Number of Reviews": 586
+    },
+    {
+      "Name": "Senses Restaurant",
+      "City": "ahemdabad",
+      "Cuisine Style": "['Chinese', 'Panjabi']",
+      "Ranking": 21,
+      "Rating": 4.5,
+      "Number of Reviews": 1380
+    }  
+  ]
